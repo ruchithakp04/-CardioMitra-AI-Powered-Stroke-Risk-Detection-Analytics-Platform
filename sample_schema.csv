@@ -1,0 +1,4 @@
+patient_id,age,gender,region,screening_date,plaque_score,risk_category,device_id,screening_duration,follow_up_required
+PT001,45,M,Urban,2024-01-15,0.12,Low,DEV001,62,No
+PT002,67,F,Rural,2024-01-16,0.45,High,DEV002,58,Yes
+PT003,52,M,Semi-Urban,2024-01-17,0.28,Medium,DEV001,60,No

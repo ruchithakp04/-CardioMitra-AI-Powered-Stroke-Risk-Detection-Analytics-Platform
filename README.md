@@ -63,4 +63,32 @@ IoT Wearable → Data Ingestion → ETL Processing → AI Analytics → BI Dashb
 | **Analytics** | Statistical analysis, ML models |
 | **Documentation** | GitHub, Markdown, PDF reports |
 
+## 🚀 Project Status
+**BI Prototype / Academic Project**  
+✅ Complete Documentation & Architecture  
+✅ BI Dashboard Design & KPIs Defined  
+✅ Data Pipeline Design  
+🔄 Future: Live Dashboard Implementation
+
+## 👥 Author
+**Ruchi**  
+Business Intelligence Intern Aspirant  
+Focus: Healthcare Analytics, Data Pipelines, KPI Development, Dashboard Design
+
+## 📄 Supporting Documents
+- [TECH_EXPO_AIT_CHIKAMAGALUR.pdf](reports/TECH_EXPO_AIT_CHIKAMAGALUR.pdf) - Original project proposal
+- [SIH_Project_Report.pdf](reports/SIH_Project_Report.pdf) - Detailed project report
+
+## 🎯 BI Intern Relevance
+This project demonstrates essential BI competencies:
+- **Data Pipeline Design**: IoT → ETL → Analytics → Visualization
+- **KPI Development**: Healthcare-specific metrics definition
+- **Dashboard Creation**: Mockups and visualization planning
+- **Business Impact**: Translating technical data to business decisions
+- **Stakeholder Communication**: Clear documentation and presentation
+
+---
+
+*"Transforming raw sensor data into life-saving business intelligence."*
+
 

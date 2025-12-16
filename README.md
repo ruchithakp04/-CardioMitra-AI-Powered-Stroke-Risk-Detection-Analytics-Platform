@@ -19,3 +19,48 @@ CardioMitra addresses these challenges through a **data pipeline to insights** a
 - **BI Transformation**: Raw data → Cleaned data → KPIs → Dashboards → Decisions
 
 ## 📈 Business Intelligence Pipeline
+IoT Wearable → Data Ingestion → ETL Processing → AI Analytics → BI Dashboards → Clinical Decisions
+
+### **Key BI Components:**
+1. **Data Acquisition Layer**: Wearable sensors generating continuous health data
+2. **ETL Pipeline**: Python/SQL scripts for data cleaning and transformation
+3. **Analytics Layer**: ML models for anomaly detection and risk stratification
+4. **Visualization Layer**: Power BI/Tableau dashboards for stakeholders
+5. **Decision Support**: KPI-driven insights for healthcare providers
+
+## 🏗️ System Architecture
+┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
+│ IoT Wearable │ → │ Data Pipeline │ → │ AI Analytics │
+│ (Neckband) │ │ (Python/ETL) │ │ (Risk Scoring) │
+└─────────────────┘ └─────────────────┘ └─────────────────┘
+↓ ↓ ↓
+┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
+│ Raw Sensor │ │ Cleaned & │ │ Risk │
+│ Data │ │ Aggregated Data│ │ Classification │
+└─────────────────┘ └─────────────────┘ └─────────────────┘
+↓ ↓ ↓
+┌──────────────────────────────────────────────────────────────┐
+│ BI DASHBOARDS (Power BI) │
+│ • Patient Risk Scores • Screening Trends │
+│ • Regional Risk Mapping • Device Utilization │
+│ • Cost-Benefit Analysis • Early Detection Metrics │
+└──────────────────────────────────────────────────────────────┘
+
+## 📊 Key BI Metrics & KPIs
+- **Stroke Risk Score Distribution** (Low/Medium/High)
+- **Screening Adoption Rate** by region
+- **Cost Savings** from early detection vs. treatment
+- **Device Uptime & Reliability** metrics
+- **Patient Demographic Analysis**
+- **Risk Factor Correlation** analysis
+
+## 🛠️ Tools & Technologies
+| Category | Tools |
+|----------|-------|
+| **Data Processing** | Python (Pandas, NumPy), SQL |
+| **BI & Visualization** | Power BI, Tableau (mockups) |
+| **Data Storage** | CSV/JSON (structured formats) |
+| **Analytics** | Statistical analysis, ML models |
+| **Documentation** | GitHub, Markdown, PDF reports |
+
+
